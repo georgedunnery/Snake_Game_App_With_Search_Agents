@@ -1,1 +1,2 @@
-# Snake_Game_App_With_Search_Agents
+# Snake-AI
+CS5100 AI Snake Project
